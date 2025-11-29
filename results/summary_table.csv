@@ -1,0 +1,4 @@
+Method,Avg JCT,Fairness
+Random,computed in plots,
+Uniform,computed in plots,
+JPS Optimal,115.13,0.9643

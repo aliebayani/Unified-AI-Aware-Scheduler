@@ -1,0 +1,4 @@
+Fairness Analysis
+=================
+Jain Index: 0.9578
+Spread (max/min): 1.7609
