@@ -31,31 +31,27 @@ This project includes:
 ---
 
 ## Project Structure
+
 Project Root
-│
-├── sim.py                    
-├── auto_tune.py              
-├── evaluation.py             
-├── run_all.py                
-│
-├── plots/                    
-│   ├── category_entropy.png
-│   ├── category_variance.png
-│   ├── fairness_tradeoff.png
-│   ├── grid_heatmap.png
-│   ├── jct_cdf.png
-│   ├── jct_vs_workers.png
-│   ├── sampler_comparison.png
-│   ├── worker_heatmap.png
-│
-├── results/                  
-│   ├── fairness_metrics.txt
-│   ├── summary_table.csv
-│
-├── autotune_trials.png       
-├── auto_tune_history.csv     
-│
-└── README.md                 
+- sim.py
+- auto_tune.py
+- evaluation.py
+- run_all.py
+- plots/
+  - category_entropy.png
+  - category_variance.png
+  - fairness_tradeoff.png
+  - grid_heatmap.png
+  - jct_cdf.png
+  - jct_vs_workers.png
+  - sampler_comparison.png
+  - worker_heatmap.png
+- results/
+  - fairness_metrics.txt
+  - summary_table.csv
+- autotune_trials.png
+- auto_tune_history.csv
+- README.md          
 
 ---
 
@@ -114,3 +110,4 @@ Outputs appear in:
 ### Results (in `results/`)
 - Jain fairness index + JCT spread  
 - Summary table of methods  
+
