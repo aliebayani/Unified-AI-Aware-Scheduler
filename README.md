@@ -63,26 +63,25 @@ Install all dependencies:
 pip install -r requirements.txt
 
 ### `requirements.txt`
-
-contourpy==1.3.3
-cycler==0.12.1
-fonttools==4.61.0
-kiwisolver==1.4.9
-matplotlib==3.10.7
-numpy==2.3.5
-packaging==25.0
-pandas==2.3.3
-pandoc==2.4
-pillow==12.0.0
-plumbum==1.10.0
-ply==3.11
-pyparsing==3.2.5
-python-dateutil==2.9.0.post0
-pytz==2025.2
-pywin32==311
-seaborn==0.13.2
-six==1.17.0
-tzdata==2025.2
+- contourpy==1.3.3
+- cycler==0.12.1
+- fonttools==4.61.0
+- kiwisolver==1.4.9
+- matplotlib==3.10.7
+- numpy==2.3.5
+- packaging==25.0
+- pandas==2.3.3
+- pandoc==2.4
+- pillow==12.0.0
+- plumbum==1.10.0
+- ply==3.11
+- pyparsing==3.2.5
+- python-dateutil==2.9.0.post0
+- pytz==2025.2
+- pywin32==311
+- seaborn==0.13.2
+- six==1.17.0
+- tzdata==2025.2
 
 
 ### **2. Run Auto-Tuning**
@@ -110,4 +109,5 @@ Outputs appear in:
 ### Results (in `results/`)
 - Jain fairness index + JCT spread  
 - Summary table of methods  
+
 
