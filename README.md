@@ -58,7 +58,7 @@ Project Root
 ## Requirements
 - Python **3.8+**
 
-Install all dependencies:
+### **1. Install all dependencies**
 
 pip install -r requirements.txt
 
@@ -109,5 +109,6 @@ Outputs appear in:
 ### Results (in `results/`)
 - Jain fairness index + JCT spread  
 - Summary table of methods  
+
 
 
